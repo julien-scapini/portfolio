@@ -1,0 +1,22 @@
+
+/* Documento do css para a pagina inicial do portfolio */
+
+body {
+    background-color: #2f466e;
+    font-family: Arial, sans-serif;
+}
+
+
+
+/* Estilização para os textos e titulos da pagina */
+h1 {
+    color:black;
+    text-align:center;
+    font-family: 'times new roman', sans-serif;
+
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
